@@ -1,2 +1,2 @@
-const { cpyNm } = require('./company-name');
-console.log(cpyNm);
+const { companyName } = require('./company-name');
+console.log(companyName);
