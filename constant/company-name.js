@@ -1,4 +1,3 @@
-const cpyNm = 'Acme Gooseberries';
-const companyName = cpyNm;
+const companyName = 'Acme Gooseberries';
 
-module.exports = { cpyNm, companyName };
+module.exports = { companyName };
