@@ -1,2 +1,4 @@
 const cpyNm = 'Acme Gooseberries';
-module.exports = { cpyNm };
+const companyName = cpyNm;
+
+module.exports = { cpyNm, companyName };
